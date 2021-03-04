@@ -1,0 +1,45 @@
+*{
+	padding: 0px;
+	margin: 0px;
+	text-decoration: none;
+	list-style: none;
+	font-style:cursive;
+	}
+.navbar{
+	width: 100%;
+	position: fixed;
+	background-color: blue;
+	padding: 15px 0px;
+    height:50px;
+    color:white;
+}
+.navbar .max{
+
+	width: 1300px;
+	display: flex;
+	justify-content: space-between;
+	margin: auto;
+	align-content: auto;
+}
+.logo a{
+	color: white;
+	font-size: 40px;
+	font-weight: 500;
+}
+.form { text-align:center;  
+     	padding:100px;
+		padding-top:0px;
+		margin-top: 12px;
+		margin-left:0px;
+
+}
+.button {
+	background: blue;
+	color:white;
+	margin-bottom: right;
+}
+.inf {
+	margin-left: 40px;
+}
+
+
